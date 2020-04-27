@@ -1,6 +1,8 @@
 ## Changelog for v1.0
 - Initial release
 
+A mod for Unciv that adds 33 resources and 8 buildings. From the highest peaks to the lowest trenches, this mod will help make your game more interesting and realistic.
+
 ## Roadmap
 - Pixel art
 - Balance fixes.
