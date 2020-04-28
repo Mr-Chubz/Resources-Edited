@@ -1,7 +1,7 @@
 ## Changelog for v1.2
 - Added 9 new resources.
 
-A mod for Unciv that adds 33 resources and 8 buildings. From the highest peaks to the lowest trenches, this mod will help make your game more interesting and realistic.
+A mod for Unciv that adds 42 resources and 8 buildings. From the highest peaks to the lowest trenches, this mod will help make your game more interesting and realistic.
 
 ## Roadmap
 - Pixel art
