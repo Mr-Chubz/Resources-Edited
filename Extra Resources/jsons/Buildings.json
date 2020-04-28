@@ -39,7 +39,7 @@
     "name": "Grocer", 
 		"cost": "200",
 		"maintenance": 2,
-		"requiredNearbyImprovedResources": ["Citrus","Bananas","Dates","Melon","Pineapple","Apple","Blueberry","Strawberry","Mango","Coconut","Spices","Sugar","Salt","Cocoa","Truffles","Crab","Shrimp","Oyster","Fish","Shark"],
+		"requiredNearbyImprovedResources": ["Citrus","Bananas","Dates","Melon","Pineapple","Apple","Blueberry","Strawberry","Mango","Coconut","Spices","Sugar","Salt","Cocoa","Truffles","Crab","Shrimp","Oyster","Fish","Shark","Kelp","Moringa","Potato","Tomato","Carrot","Bell Pepper","Corn","Pumpkin","Sweet Potato"],
 		"resourceBonusStats": {"food": 1},
 		"hurryCostModifier": 20,
 		"requiredTech": "Banking"
