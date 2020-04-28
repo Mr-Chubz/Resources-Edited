@@ -277,7 +277,7 @@
 	{
 		"name": "Papyrus",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Jungle","Forest","Plains","Grassland"],
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Plains","Grassland","Flood plains"],
 		"production": 2,
 		"improvement": "Farm",
 		"improvementStats": {"production": 1}
@@ -298,5 +298,84 @@
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "production": 1}
+	},
+	{
+		"name": "Carrot",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Hill","Grassland","Plains"],
+		"food": 2,
+		"improvement": "Farm",
+		"improvementStats": {"food": 1}
+	},
+	{
+		"name": "Potato",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"food": 2,
+		"improvement": "Farm",
+		"improvementStats": {"food": 1}
+	},
+	{
+		"name": "Tomato",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"gold": 1,
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"gold": 1, "food": 1}
+	},
+	{
+		"name": "Pumpkin",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Grassland"],
+		"gold": 1,
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"gold": 1, "food": 1}
+	},
+	{
+		"name": "Moringa",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Jungle"],
+		"food": 1,
+		"gold": 1,
+		"improvement": "Plantation",
+		"improvementStats": {"gold": 1, "food": 1}
+	},
+	{
+		"name": "Corn",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Grassland","Flood plains","Hill"],
+		"gold": 1,
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"gold": 1, "food": 1}
+	},
+	{
+		"name": "Bell Pepper",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Flood plains","Plains","Grassland"],
+		"gold": 1,
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"gold": 1, "food": 1}
+	},
+	{
+		"name": "Sweet Potato",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Flood plains"],
+		"gold": 1,
+		"food": 1,
+		"improvement": "Farm",
+		"improvementStats": {"gold": 1, "food": 1}
+	},
+	{
+		"name": "Kelp",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Coast"],
+		"gold": 1,
+		"food": 1,
+		"improvement": "Fishing Boats",
+		"improvementStats": {"food": 1,"gold": 1}
 	}
   ]
