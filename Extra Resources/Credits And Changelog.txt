@@ -61,3 +61,10 @@ Created my Sweet Potato logo at LogoMakr.com (logomakr.com/8tsK8V)
 Created my Kelp logo at LogoMakr.com (logomakr.com/82GWK4)
 
 Inspired by the extra resources and buildings provided by Lekmod on Civ 5.
+
+Changelog:
+v1.2
+-Added 9 new resources and modified building stats.
+
+v1.3
+- Added 9 new resources and 6 new units.
