@@ -380,7 +380,7 @@
 	},
 	{
 		"name": "Gypsum",
-		"resourceType": "Strategic",
+		"resourceType": "Luxury",
 		"revealedBy": "Chemistry",
 		"terrainsCanBeFoundOn": ["Hill","Grassland","Plains"],
 		"gold": 2,
