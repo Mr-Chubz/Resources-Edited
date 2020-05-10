@@ -88,4 +88,4 @@ v1.2
 -Added 9 new resources and modified building stats.
 
 v1.3
-- Added 9 new resources and 6 new units.
+- Added 9 new resources and 7 new units.
