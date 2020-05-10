@@ -6,6 +6,7 @@ Created my Sulfur free logo at LogoMakr.com (logomakr.com/4Ulz6W)
 Created my Amber free logo at LogoMakr.com (logomakr.com/2lMB5J)
 Created my Jade free logo at LogoMakr.com (logomakr.com/0vQHml)
 Created my Diamond free logo at LogoMakr.com (logomakr.com/0mL50j)
+Created my Graphite free logo at LogoMakr.com (logomakr.com/4DBFiM)
 Created my Tin free logo at LogoMakr.com (logomakr.com/1XqPGP)
 Created my Obsidian free logo at LogoMakr.com (logomakr.com/23yhKB)
 Created my Titanium free logo at LogoMakr.com (logomakr.com/5CQJC0)
@@ -89,3 +90,7 @@ v1.2
 
 v1.3
 - Added 9 new resources and 7 new units.
+- Changed Titanium resource type to Strategic.
+
+v1.3.1
+- Fixed Grpahite icon problem.
