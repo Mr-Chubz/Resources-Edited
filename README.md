@@ -1,5 +1,6 @@
-## Changelog for v1.3.1
-- Fixed the Graphite icon problem.
+## Changelog for v1.3.2
+- Fixed Camel unit crahses.
+- Mod now available in Russian! Thanks to BadaTheBada for the translation efforts.
 
 NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/664739473367760908/705717554789744670/Civ5ExpansionMod.zip).
 
