@@ -76,7 +76,7 @@
 	},
 	{
 		"name": "Enhanced Infantry",
-		"unitType": "Armor",
+		"unitType": "Melee",
 		"movement": 3,
 		"strength": 95,
 		"cost": 380,
