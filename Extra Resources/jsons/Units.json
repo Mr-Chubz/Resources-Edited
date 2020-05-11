@@ -1,5 +1,5 @@
 [
-  {
+  	{
 		"name": "Camel Warrior",
 		"unitType": "Mounted",
 		"movement": 4,
@@ -7,7 +7,7 @@
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Camel",
-		"upgradesTo": "Camel Heavy Warrior",
+		"upgradesTo": "Heavy Camel Warrior",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus","Can move after attacking","Penalty vs City 33%"],
 		"hurryCostModifier": 20,
@@ -36,7 +36,7 @@
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Camel",
-		"upgradesTo": "Camel Heavy Bowman",
+		"upgradesTo": "Heavy Camel Bowman",
 		"obsoleteTech": "Machinery",
 		"uniques": ["No defensive terrain bonus","Can move after attacking","Penalty vs City 33%"],
 		"hurryCostModifier": 20,
@@ -57,14 +57,14 @@
 		"hurryCostModifier": 20,
 		"attackSound": "arrow"
 	},
-  {
+  	{
 		"name": "Camel Archer",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 17,
 		"rangedStrength": 21,
 		"uniqueTo": "Arabia",
-    "replaces": "Knight",
+    		"replaces": "Knight",
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Camel",
@@ -72,8 +72,7 @@
 		"obsoleteTech": "Military Science",
 		"uniques": ["No defensive terrain bonus","Can move after attacking"],
 		"hurryCostModifier": 20,
-		"attackSound": "arrow",
-    "promotions": ["Shock I"]
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Enhanced Infantry",
@@ -97,7 +96,7 @@
 		"uniques": ["+1 Visibility Range","Ignores terrain cost"],
 		"hurryCostModifier": 20
 	},
-		{
+	{
 		"name": "Hover Tank",
 		"unitType": "Armor",
 		"movement": 4,
