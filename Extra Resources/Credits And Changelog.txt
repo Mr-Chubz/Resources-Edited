@@ -94,3 +94,7 @@ v1.3
 
 v1.3.1
 - Fixed Grpahite icon problem.
+
+v1.3.2
+- Fixed Camel unit crahses.
+- Mod now available in Russian! Thanks to BadaTheBada for the translation efforts.
