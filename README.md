@@ -1,13 +1,13 @@
-## Changelog for v1.3.2
-- Fixed Camel unit crahses.
-- Mod now available in Russian! Thanks to BadaTheBada for the translation efforts.
+## Changelog for v1.3.3
+- Mod now available in Ukrainian! Thank you Prosta4okua!
 
-NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/664739473367760908/705717554789744670/Civ5ExpansionMod.zip).
+NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/664739473367760908/716157804846514230/Civ5ExpansionModv2.2.zip).
 
 A mod for Unciv that adds 52 resources, 7 new units, and 8 buildings. From the highest peaks to the lowest trenches, this mod will help make your game more interesting and realistic.
 
 ## Roadmap
 - Pixel art
 - Balance fixes.
+- Honey resource.
 
 Help is greatly appreciated. You could contact me on Discord (Cavenir#6636). Thank you.
