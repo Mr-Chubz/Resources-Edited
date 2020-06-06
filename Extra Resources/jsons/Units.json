@@ -1,4 +1,29 @@
 [
+  {
+		"name": "Marine",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 65,
+		"cost": 400,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Enhanced Recon Troop",
+		"obsoleteTech": "Nanotechnology",
+		"uniques": ["Amphibious", "Defense bonus when embarked", "+1 Visibility Range"],
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	},
+	{
+		"name": "Mechanized Infantry",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 90,
+		"cost": 375,
+		"requiredTech": "Mobile Tactics",
+		"upgradesTo": "Enhanced Infantry",
+		"obsoleteTech": "Nanotechnology",
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	},
   	{
 		"name": "Camel Warrior",
 		"unitType": "Mounted",
