@@ -1,5 +1,5 @@
-## Changelog for v1.3.3
-- Mod now available in Ukrainian! Thank you Prosta4okua!
+## Changelog for v1.4
+- Added buildings from previous eras in order to connect them to the new units.
 
 NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/664739473367760908/716157804846514230/Civ5ExpansionModv2.2.zip).
 
