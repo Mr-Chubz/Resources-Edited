@@ -98,3 +98,9 @@ v1.3.1
 v1.3.2
 - Fixed Camel unit crahses.
 - Mod now available in Russian! Thanks to BadaTheBada for the translation efforts.
+
+v1.3.3
+- Mod now available in Ukrainian! Thank you Prosta4okua!
+
+v1.4
+- Added buildings from previous eras in order to connect them to the new units.
