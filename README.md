@@ -10,8 +10,5 @@ A mod for Unciv that adds 52 resources, 7 new units, and 8 buildings. From the h
 ## Roadmap
 - Pixel art
 - Balance fixes.
-- New resources (Honey, Ube, Taro, Squash, and Watermelon).
-- New buildings (Candy Store)
-- New improvements (Apiary)
 
 Help is greatly appreciated. You could contact me on Discord (Cavenir#6636). Thank you.
