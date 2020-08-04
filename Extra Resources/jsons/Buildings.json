@@ -99,13 +99,19 @@
       "Sweet Potato",
       "Lobster",
       "Chili",
-      "Pepper",
+      "Common Pepper",
       "Onion",
       "Garlic",
       "Sheep",
       "Cattle",
       "Goat",
-      "Nut"
+      "Nut",
+      "Watermelon",
+      "Chicken",
+      "Honey",
+      "Ube",
+      "Taro",
+      "Bitter Gourd"
     ],
     "resourceBonusStats": {
       "food": 1
