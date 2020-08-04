@@ -72,6 +72,18 @@ Created my Pepper logo at LogoMakr.com (logomakr.com/0VR9RF)
 Created my Onion logo at LogoMakr.com (logomakr.com/8Pdrpn)
 Created my Garlic logo at LogoMakr.com (logomakr.com/55VZ8d)
 
+Additional 3:
+Created my Chicken logo using LogoMakr.com (logomakr.com/9BNewH)
+Created my Honey logo using LogoMakr.com (logomakr.com/76sfuI) 
+Created my Watermelon logo using LogoMakr.com (logomakr.com/1Ms8cH)
+Created my Ube logo using LogoMakr.com (logomakr.com/1KK7Y4)
+Created my Taro logo using LogoMakr.com (logomakr.com/52Z73M)
+Created my Bitter Gourd logo using LogoMakr.com (logomakr.com/9eXu0g)
+
+Improvements:
+Created my Chicken Coop logo using LogoMakr.com (logomakr.com/7qPCLS)
+Created my Apiary logo using LogoMakr.com (logomakr.com/12QnnL)
+
 Units:
 Created my Enhanced Infantry logo at LogoMakr.com (logomakr.com/6nRlT2)
 Created my Enhanced Recon Troop logo at LogoMakr.com (logomakr.com/2rZvrQ)
@@ -104,3 +116,6 @@ v1.3.3
 
 v1.4
 - Added buildings from previous eras in order to connect them to the new units.
+
+v1.5
+- Added 6 new resources and 2 new improvements.
