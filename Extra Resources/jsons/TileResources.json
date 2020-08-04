@@ -425,7 +425,7 @@
 		"improvementStats": {"food": 1, "gold": 1}
 	},
 	{
-		"name": "Pepper",
+		"name": "Common Pepper",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Jungle","Hill"],
 		"food": 1,
@@ -457,5 +457,56 @@
 		"gold": 1,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1, "gold": 1}
+	},
+	{
+		"name": "Chicken",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Hill","Plains","Grassland","Forest","Jungle"],
+		"food": 2,
+		"improvement": "Chicken Coop",
+		"improvementStats": {"food": 1}
+	},
+	{
+		"name": "Honey",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Hill","Plains","Grassland"],
+		"food": 1,
+		"gold": 1,
+		"improvement": "Apiary",
+		"improvementStats": {"gold": 1}
+	},
+	{
+		"name": "Watermelon",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains","Hill","Grassland","Jungle"],
+		"food": 2,
+		"gold": 2,
+		"improvement": "Plantation",
+		"improvementStats": {"food": 1, "gold": 1}
+	},
+	{
+		"name": "Ube",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Hill","Jungle"],
+		"food": 2,
+		"gold": 1,
+		"improvement": "Farm",
+		"improvementStats": {"food": 1}
+	},
+	{
+		"name": "Taro",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Hill","Jungle","Marsh"],
+		"food": 2,
+		"improvement": "Farm",
+		"improvementStats": {"food": 1}
+	},
+	{
+		"name": "Bitter Gourd",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Jungle","Marsh"],
+		"food": 2,
+		"improvement": "Farm",
+		"improvementStats": {"food": 1}
 	}
   ]
