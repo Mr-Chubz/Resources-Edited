@@ -1,5 +1,5 @@
-## Changelog for v1.4
-- Added buildings from previous eras in order to connect them to the new units.
+## Changelog for v1.5
+- Added 6 new resources and 2 new improvements.
 
 NOTE: Requires the latest [Civ 5 Expansion mod](https://cdn.discordapp.com/attachments/718432409816662118/718474451200638976/Civ5ExpansionModv3.1.zip).
 
