@@ -119,3 +119,6 @@ v1.4
 
 v1.5
 - Added 6 new resources and 2 new improvements.
+
+v1.5.1
+- Changed the name of Ube to Purple Yam.
