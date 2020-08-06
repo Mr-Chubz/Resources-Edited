@@ -485,7 +485,7 @@
 		"improvementStats": {"food": 1, "gold": 1}
 	},
 	{
-		"name": "Ube",
+		"name": "Purple Yam",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Hill","Jungle"],
 		"food": 2,
