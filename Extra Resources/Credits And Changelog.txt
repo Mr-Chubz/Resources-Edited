@@ -122,3 +122,7 @@ v1.5
 
 v1.5.1
 - Changed the name of Ube to Purple Yam.
+
+v1.5.2
+- Adjusted unit info in order to match the lates version of Civ 5 expansion mod.
+
