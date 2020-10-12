@@ -126,3 +126,6 @@ v1.5.1
 v1.5.2
 - Adjusted unit info in order to match the lates version of Civ 5 expansion mod.
 
+v1.6.0
+- - Adjusted file placement in order to make it downloadable straight from the game itself.
+
