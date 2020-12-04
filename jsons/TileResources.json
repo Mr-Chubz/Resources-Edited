@@ -190,7 +190,7 @@
 	{
 		"name": "Strawberry",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Hills","Forest"],
+		"terrainsCanBeFoundOn": ["Hill","Forest"],
 		"gold": 1,
 		"food": 1,
 		"improvement": "Plantation",
@@ -199,7 +199,7 @@
 	{
 		"name": "Blueberry",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Hills","Forest","Plains"],
+		"terrainsCanBeFoundOn": ["Hill","Forest","Plains"],
 		"gold": 1,
 		"food": 1,
 		"improvement": "Plantation",
@@ -261,7 +261,7 @@
 	{
 		"name": "Perfume",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Forest","Plains","Grassland","Hills"],
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Plains","Grassland","Hill"],
 		"gold": 2,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1}
@@ -269,7 +269,7 @@
 	{
 		"name": "Tobacco",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Forest","Hills"],
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Hill"],
 		"gold": 2,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1}
@@ -400,7 +400,7 @@
 		"name": "Camel",
 		"resourceType": "Strategic",
 		"revealedBy": "Animal Husbandry",
-		"terrainsCanBeFoundOn": ["Desert","Flood Plains","Plains","Grassland"],
+		"terrainsCanBeFoundOn": ["Desert","Flood plains","Plains","Grassland"],
 		"food": 1,
 		"gold": 1,
 		"improvement": "Pasture",
@@ -418,7 +418,7 @@
 	{
 		"name": "Chili",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Hill","Flood Plains"],
+		"terrainsCanBeFoundOn": ["Jungle","Hill","Flood plains"],
 		"food": 1,
 		"gold": 1,
 		"improvement": "Farm",
