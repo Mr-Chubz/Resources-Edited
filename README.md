@@ -7,5 +7,6 @@ A mod for Unciv that adds 58 resources, 7 new units, 2 new improvements, and 8 b
 
 ## Roadmap
 - Pixel art
+- New units! (Drones, robots, etc.)
 
 Help is greatly appreciated. You could contact me on Discord (Cavenir#6636), or you could reach out using the links provided on [my website](https://secession-cycles.carrd.co). Thank you.
