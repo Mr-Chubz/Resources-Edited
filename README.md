@@ -1,5 +1,5 @@
-## Changelog for v1.6.2
-- A few syntax-based bugs has been squashed, thanks to [shannaurelle](https://github.com/shannaurelle)!
+## Changelog for v1.6.3
+- Changed the Camel Bowman and the Heavy Camel Bowman units to Ranged.
 
 NOTE: Requires the latest version of the [Civ 5 Expansion Mod](https://github.com/k4zoo/Civ5ExpansionMod) by Red11/k4zoo
 
