@@ -134,3 +134,6 @@ Updated and buffed the apiary and chicken coop improvements.
 
 v1.6.2 - December 3-4, 2020
 - A few syntax-based bugs has been squashed, thanks to shannaurelle!
+
+v1.6.3 - December 13, 2020
+- Changed the Camel Bowman and the Heavy Camel Bowman units to Ranged.
