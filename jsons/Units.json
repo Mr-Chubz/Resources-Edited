@@ -54,7 +54,7 @@
 	},
 	{
 		"name": "Camel Bowman",
-		"unitType": "Mounted",
+		"unitType": "Ranged",
 		"movement": 4,
 		"strength": 12,
 		"rangedStrength": 14,
@@ -69,7 +69,7 @@
 	},
 	{
 		"name": "Heavy Camel Bowman",
-		"unitType": "Mounted",
+		"unitType": "Ranged",
 		"movement": 4,
 		"strength": 16,
 		"rangedStrength": 20,
