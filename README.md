@@ -1,4 +1,4 @@
-#NOTE
+# NOTE
 - This mod has been abandoned and canceled in favor of a future mod that I will make, improving upon what I have done in this mod. Thank you for your appreciation.
 
 ## Changelog for v1.6.3
