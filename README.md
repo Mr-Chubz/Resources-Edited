@@ -1,5 +1,5 @@
 # NOTE
-- This mod has been abandoned and canceled in favor of a future mod that I will make, improving upon what I have done in this mod. Thank you for your appreciation.
+- This mod has been abandoned and canceled in favor of a future mod that I will make (sooner or later), improving upon what I have done in this mod. I have decided to abandon this mod since I cannot bother myself to update this for the latest versions of Unciv, considering that a lot of features in this mod has been made obsolete by other well-made mods. This mod will not be deleted and will still be found here, just for posterity. Thank you for your appreciation.
 
 ## Changelog for v1.6.3
 - Changed the Camel Bowman and the Heavy Camel Bowman units to Ranged.
