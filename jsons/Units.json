@@ -26,7 +26,7 @@
 	},
   	{
 		"name": "Camel Warrior",
-		"unitType": "Mounted",
+		"unitType": "Heavy Calvary",
 		"movement": 4,
 		"strength": 13,
 		"cost": 75,
@@ -40,7 +40,7 @@
 	},
 	{
 		"name": "Heavy Camel Warrior",
-		"unitType": "Mounted",
+		"unitType": "Heavy Calvary",
 		"movement": 4,
 		"strength": 21,
 		"cost": 120,
@@ -54,7 +54,7 @@
 	},
 	{
 		"name": "Camel Bowman",
-		"unitType": "Ranged",
+		"unitType": "Ranged Calvary",
 		"movement": 4,
 		"strength": 12,
 		"rangedStrength": 14,
@@ -69,7 +69,7 @@
 	},
 	{
 		"name": "Heavy Camel Bowman",
-		"unitType": "Ranged",
+		"unitType": "Ranged Calvary",
 		"movement": 4,
 		"strength": 16,
 		"rangedStrength": 20,
@@ -86,7 +86,7 @@
 		"name": "Camel Archer",
 		"replaces": "Knight",
 		"uniqueTo": "Arabia",
-		"unitType": "Ranged",
+		"unitType": "Ranged Calvary",
 		"movement": 4,
 		"strength": 17,
 		"rangedStrength": 21,
@@ -101,7 +101,7 @@
 	},
 	{
 		"name": "Enhanced Infantry",
-		"unitType": "Melee",
+		"unitType": "Infantry",
 		"movement": 3,
 		"strength": 95,
 		"cost": 380,
@@ -112,7 +112,7 @@
 	},
 	{
 		"name": "Enhanced Recon Troop",
-		"unitType": "Melee",
+		"unitType": "Recon",
 		"movement": 4,
 		"strength": 90,
 		"cost": 350,
@@ -123,7 +123,7 @@
 	},
 	{
 		"name": "Hover Tank",
-		"unitType": "Armor",
+		"unitType": "Light Calvary",
 		"movement": 4,
 		"strength": 110,
 		"cost": 400,
