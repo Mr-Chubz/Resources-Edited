@@ -26,7 +26,7 @@
 	},
   	{
 		"name": "Camel Warrior",
-		"unitType": "Heavy Calvary",
+		"unitType": "Heavy Cavalry",
 		"movement": 4,
 		"strength": 13,
 		"cost": 75,
@@ -40,7 +40,7 @@
 	},
 	{
 		"name": "Heavy Camel Warrior",
-		"unitType": "Heavy Calvary",
+		"unitType": "Heavy Cavalry",
 		"movement": 4,
 		"strength": 21,
 		"cost": 120,
@@ -54,7 +54,7 @@
 	},
 	{
 		"name": "Camel Bowman",
-		"unitType": "Ranged Calvary",
+		"unitType": "Ranged Cavalry",
 		"movement": 4,
 		"strength": 12,
 		"rangedStrength": 14,
@@ -69,7 +69,7 @@
 	},
 	{
 		"name": "Heavy Camel Bowman",
-		"unitType": "Ranged Calvary",
+		"unitType": "Ranged Cavalry",
 		"movement": 4,
 		"strength": 16,
 		"rangedStrength": 20,
@@ -86,7 +86,7 @@
 		"name": "Camel Archer",
 		"replaces": "Knight",
 		"uniqueTo": "Arabia",
-		"unitType": "Ranged Calvary",
+		"unitType": "Ranged Cavalry",
 		"movement": 4,
 		"strength": 17,
 		"rangedStrength": 21,
@@ -123,7 +123,7 @@
 	},
 	{
 		"name": "Hover Tank",
-		"unitType": "Light Calvary",
+		"unitType": "Light Cavalry",
 		"movement": 4,
 		"strength": 110,
 		"cost": 400,
