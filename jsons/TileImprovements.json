@@ -2,7 +2,6 @@
   {
 		"name": "Chicken Coop",
 		"food": 2,
-	  	"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Animal Husbandry",
 		"improvingTech": "Industrialization",
@@ -11,7 +10,6 @@
 	{
 		"name": "Apiary",
 		"food": 2,
-		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Calendar",
 		"improvingTech": "Industrialization",
