@@ -18,7 +18,7 @@
         "name": "Caravan",
         "hurryCostModifier": 25,
         "happiness": 2,
-        "uniques": ["[+1 Happiness] for every [3] population [in this city]", "[+2] [Gold] for every [Trade Route] [in this city]", "Consumes [1] [Camel]"],
+        "uniques": ["[+1 Happiness] for every [3] population [in this city]", "[+2] [Gold] for every [Trade Route] [in this city]","[+2] [Food] for every [Trade Route] [in this city]", "Consumes [1] [Camel]"],
         "requiredTech": "Animal Husbandry"
 },
   {
