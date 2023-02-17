@@ -7,7 +7,7 @@
 		"cost": 106,
 		"requiredResource": "Camel",
 		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population","May withdraw before melee ([60]%)"],
+			"Requires at least [2] population","May withdraw before melee ([60]%)","Provides [20] Food when epended"],
 		"hurryCostModifier": 20
 	},
 	{
