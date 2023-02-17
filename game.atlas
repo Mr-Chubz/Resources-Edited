@@ -353,7 +353,7 @@ UnitIcons/Heavy Camel Warrior
   orig: 400, 400
   offset: 0, 0
   index: -1
-UnitIcons/Hover Tank
+UnitIcons/Assault Hovercraft
   rotate: false
   xy: 404, 404
   size: 400, 400
