@@ -1,29 +1,5 @@
 [
-  {
-		"name": "Marine",
-		"unitType": "Melee",
-		"movement": 2,
-		"strength": 65,
-		"cost": 400,
-		"requiredTech": "Pharmaceuticals",
-		"upgradesTo": "Enhanced Recon Troop",
-		"obsoleteTech": "Nanotechnology",
-		"uniques": ["Amphibious", "Defense bonus when embarked", "+1 Visibility Range"],
-		"hurryCostModifier": 20,
-		"attackSound": "shot"
-	},
-	{
-		"name": "Mechanized Infantry",
-		"unitType": "Melee",
-		"movement": 3,
-		"strength": 90,
-		"cost": 375,
-		"requiredTech": "Mobile Tactics",
-		"upgradesTo": "Enhanced Infantry",
-		"obsoleteTech": "Nanotechnology",
-		"hurryCostModifier": 20,
-		"attackSound": "shot"
-	},
+ 
   	{
 		"name": "Camel Warrior",
 		"unitType": "Heavy Cavalry",
@@ -104,7 +80,7 @@
 		"unitType": "Infantry",
 		"movement": 3,
 		"strength": 95,
-		"cost": 380,
+		"cost": 350,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Titanium",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
@@ -122,7 +98,7 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Hover Tank",
+		"name": "Assault Hovercraft",
 		"unitType": "Light Cavalry",
 		"movement": 4,
 		"strength": 110,
