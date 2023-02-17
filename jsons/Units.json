@@ -1,6 +1,16 @@
 [
  
-  	{
+	  {
+		"name": "Caravan",
+		"unitType": "Civilian",
+		"movement": 3,
+		"cost": 106,
+		"requiredResource": "Camel",
+		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
 		"name": "Camel Warrior",
 		"unitType": "Heavy Cavalry",
 		"movement": 4,
