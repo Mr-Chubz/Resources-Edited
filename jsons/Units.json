@@ -97,7 +97,7 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Enhanced Recon Troop",
+		"name": "Enhanced Recon",
 		"unitType": "Recon",
 		"movement": 4,
 		"strength": 90,
