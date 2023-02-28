@@ -1,0 +1,605 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Censer Maker
+  rotate: false
+  xy: 412, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Clothing Store
+  rotate: false
+  xy: 412, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Apiary
+  rotate: false
+  xy: 4, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Chicken Coop
+  rotate: false
+  xy: 1228, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Amber
+  rotate: false
+  xy: 4, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Apple
+  rotate: false
+  xy: 412, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bell Pepper
+  rotate: false
+  xy: 412, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bitter Gourd
+  rotate: false
+  xy: 820, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Blueberry
+  rotate: false
+  xy: 4, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Camel
+  rotate: false
+  xy: 412, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Carrot
+  rotate: false
+  xy: 4, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Chicken
+  rotate: false
+  xy: 820, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Chili
+  rotate: false
+  xy: 1636, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coconut
+  rotate: false
+  xy: 820, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Common Pepper
+  rotate: false
+  xy: 1228, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coral
+  rotate: false
+  xy: 1636, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Corn
+  rotate: false
+  xy: 820, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Dates
+  rotate: false
+  xy: 1228, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Diamond
+  rotate: false
+  xy: 1636, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Flax
+  rotate: false
+  xy: 1636, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Assault Hovercraft
+  rotate: false
+  xy: 4, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Camel Bowman
+  rotate: false
+  xy: 820, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Camel Warrior
+  rotate: false
+  xy: 1228, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Enhanced Infantry
+  rotate: false
+  xy: 1228, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Enhanced Recon
+  rotate: false
+  xy: 1636, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Gemcutter
+  rotate: false
+  xy: 4, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Geothermal Plant
+  rotate: false
+  xy: 412, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Grocer
+  rotate: false
+  xy: 4, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Oil Refinery
+  rotate: false
+  xy: 1636, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Garlic
+  rotate: false
+  xy: 4, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Glass
+  rotate: false
+  xy: 4, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Goat
+  rotate: false
+  xy: 412, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Graphite
+  rotate: false
+  xy: 820, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Gypsum
+  rotate: false
+  xy: 412, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Hemp
+  rotate: false
+  xy: 4, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Honey
+  rotate: false
+  xy: 412, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Jade
+  rotate: false
+  xy: 820, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Kelp
+  rotate: false
+  xy: 1228, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Lapis Lazuli
+  rotate: false
+  xy: 1636, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Lead
+  rotate: false
+  xy: 412, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Lobster
+  rotate: false
+  xy: 820, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Mango
+  rotate: false
+  xy: 1228, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Melon
+  rotate: false
+  xy: 1636, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Mercury
+  rotate: false
+  xy: 820, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Moringa
+  rotate: false
+  xy: 1228, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Nut
+  rotate: false
+  xy: 1636, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Obsidian
+  rotate: false
+  xy: 1228, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Olive
+  rotate: false
+  xy: 1636, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Camel Bowman
+  rotate: false
+  xy: 820, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Camel Warrior
+  rotate: false
+  xy: 1228, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Perfumery
+  rotate: false
+  xy: 412, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+BuildingIcons/Textile Mill
+  rotate: false
+  xy: 1636, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Onion
+  rotate: false
+  xy: 4, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Oyster
+  rotate: false
+  xy: 4, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Papyrus
+  rotate: false
+  xy: 412, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Perfume
+  rotate: false
+  xy: 4, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pineapple
+  rotate: false
+  xy: 820, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Platinum
+  rotate: false
+  xy: 4, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Potato
+  rotate: false
+  xy: 412, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pumpkin
+  rotate: false
+  xy: 820, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Purple Yam
+  rotate: false
+  xy: 1228, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rice
+  rotate: false
+  xy: 4, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Rubber
+  rotate: false
+  xy: 412, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Shark
+  rotate: false
+  xy: 820, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Shrimp
+  rotate: false
+  xy: 1228, 1228
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Strawberry
+  rotate: false
+  xy: 1636, 1636
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sulfur
+  rotate: false
+  xy: 412, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Sweet Potato
+  rotate: false
+  xy: 820, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Taro
+  rotate: false
+  xy: 1228, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tin
+  rotate: false
+  xy: 820, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Titanium
+  rotate: false
+  xy: 1228, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tobacco
+  rotate: false
+  xy: 1636, 820
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tomato
+  rotate: false
+  xy: 1228, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Turtle
+  rotate: false
+  xy: 1636, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Watermelon
+  rotate: false
+  xy: 1636, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 512, 64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Assault Hovercraft
+  rotate: false
+  xy: 4, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Camel Bowman
+  rotate: false
+  xy: 44, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Camel Warrior
+  rotate: false
+  xy: 84, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Caravan
+  rotate: false
+  xy: 124, 4
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Enhanced Infantry
+  rotate: false
+  xy: 164, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Enhanced Recon
+  rotate: false
+  xy: 204, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Camel Bowman
+  rotate: false
+  xy: 244, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Camel Warrior
+  rotate: false
+  xy: 284, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
