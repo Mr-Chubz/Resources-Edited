@@ -133,6 +133,11 @@
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1, "production": 1}
+		"uniques": ["Generated with weight [39] <in [Hill] tiles>",
+				"Minor deposits generated with weight [20] <in [Plains] tiles>",
+				"Minor deposits generated with weight [10] <in [Grassland] tiles>"],
+		"majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 10},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
 	},
 	{
 		"name": "Obsidian",
@@ -405,6 +410,13 @@
 		"gold": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"food": 1, "gold": 1}
+		"uniques": ["Guaranteed with Strategic Balance resource option",
+				"Generated with weight [100] <in [Featureless] [Desert] tiles>",
+				"Minor deposits generated with weight [10] <in [Desert] [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+				"Minor deposits generated with weight [40] <in [Featureless] [Plains] tiles> <in [Fresh Water] tiles>",
+				"Minor deposits generated with weight [10] <in [Featureless] [Plains] tiles>"],
+		"majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
 	{
 		"name": "Lobster",
