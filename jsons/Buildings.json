@@ -13,17 +13,17 @@
         "requiredTech": "Animal Husbandry"
 },
 {
-        "name": "Horse Pulled Wagon",
+        "name": "Horse Pulled Wagons",
         "hurryCostModifier": 25,
         "happiness": 2,
         "uniques": ["[+1 Happiness] for every [3] population [in this city]", "[+5]% [Gold] [in this city]", "Consumes [1] [Horses]"],
         "requiredTech": "The Wheel"
 },
   {
-        "name": "Camel Pulled Wagon",
+        "name": "Camel Pulled Wagons",
         "hurryCostModifier": 25,
         "happiness": 2,
-        "uniques": ["[+1 Happiness] for every [3] population [in this city]", "[+5]% [Gold] [in this city]", "Consumes [1] [Camels]"],
+        "uniques": ["[+1 Happiness] for every [3] population [in this city]", "[+5]% [Gold] [in this city]", "Consumes [1] [Camel]"],
         "requiredTech": "The Wheel"
 },
 {
@@ -37,7 +37,7 @@
         "name": "Work Camels",
         "hurryCostModifier": 25,
         "happiness": 2,
-        "uniques": ["[+1 Food] for every [3] population [in this city]", "[+5]% [Food] [in this city]", "Consumes [1] [Camels]","[+10]% Food, [+10]% Gold from every [Trade Route] [in this city]"],
+        "uniques": ["[+1 Food] for every [3] population [in this city]", "[+5]% [Food] [in this city]", "Consumes [1] [Camel]","[+10]% Food, [+10]% Gold from every [Trade Route] [in this city]"],
         "requiredTech": "The Wheel"
 },
 {
@@ -51,7 +51,7 @@
         "name": "Horse Breeding",
         "hurryCostModifier": 25,
         "cost": 2,
-        "uniques": ["Provides [2] [Horses]"],
+        "uniques": ["Consumes [1] [Horses]","Provides [3] [Horses]"],
         "requiredTech": "Chivalry"
 },
         //Iron
