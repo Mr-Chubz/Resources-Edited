@@ -1,4 +1,81 @@
 [
+        //Horses
+{
+        "name": "Horse Racing",
+        "hurryCostModifier": 25,
+        "uniques": ["[+1 Gold] for every [2] population [in this city]", "+[15]% [Gold] [in this city]", "Consumes [1] [Horses]"],
+        "requiredTech": "Animal Husbandry"
+},
+{
+        "name": "Hunt Horses",
+        "hurryCostModifier": 25,
+        "uniques": ["[+10]% [Food] [in this city]", "Consumes [1] [Horses]"],
+        "requiredTech": "Animal Husbandry"
+},
+{
+        "name": "Horse Pulled Wagon",
+        "hurryCostModifier": 25,
+        "happiness": 2,
+        "uniques": ["[+1 Happiness] for every [3] population [in this city]", "[+5]% [Gold] [in this city]", "Consumes [1] [Horses]"],
+        "requiredTech": "The Wheel"
+},
+  {
+        "name": "Camel Pulled Wagon",
+        "hurryCostModifier": 25,
+        "happiness": 2,
+        "uniques": ["[+1 Happiness] for every [3] population [in this city]", "[+5]% [Gold] [in this city]", "Consumes [1] [Camels]"],
+        "requiredTech": "The Wheel"
+},
+{
+        "name": "Work Horses",
+        "hurryCostModifier": 25,
+        "happiness": 2,
+        "uniques": ["[+1 Food] for every [3] population [in this city]", "[+5]% [Food] [in this city]", "Consumes [1] [Horses]","[+2 Food from [Pasture] tiles [in this city]", "[+1 Food, +1 Production, +1 Gold] from [Farm] tiles [in this city]"],
+        "requiredTech": "The Wheel"
+},
+  {
+        "name": "Work Camels",
+        "hurryCostModifier": 25,
+        "happiness": 2,
+        "uniques": ["[+1 Food] for every [3] population [in this city]", "[+5]% [Food] [in this city]", "Consumes [1] [Camels]","[+10]% Food, [+10]% Gold from every [Trade Route] [in this city]"],
+        "requiredTech": "The Wheel"
+},
+{
+        "name": "Riding Instructor",
+        "hurryCostModifier": 25,
+        "gold": 2,
+        "uniques": ["New [Mounted] units start with [30] Experience [in this city]", "Consumes [1] [Horses]"],
+        "requiredTech": "Horseback Riding"
+},
+{
+        "name": "Horse Breeding",
+        "hurryCostModifier": 25,
+        "cost": 2,
+        "uniques": ["Provides [2] [Horses]"],
+        "requiredTech": "Chivalry"
+},
+        //Iron
+{
+        "name": "Make Tools",
+        "hurryCostModifier": 25,
+        "production": 1
+        "uniques": ["[+1 Science, +2 Production] for every [3] population [in this city]", "[+3]% [Science] [in this city]", "Consumes [1] [Iron]"],
+        "requiredTech": "Iron Working"
+},
+{
+        "name": "Steel Manufactury",
+        "hurryCostModifier": 25,
+        "production": 5
+        "uniques": ["Consumes [1] [Iron]"],
+        "requiredTech": "Metallurgy"
+},
+{
+        "name": "Alloy Steel Manufactury",
+        "hurryCostModifier": 25,
+        "production": 3
+        "uniques": ["Consumes [1] [Iron]", "[+2 Production] from [Mine] tiles [in this city]"],
+        "requiredTech": "Metallurgy"
+},
   {
     "name": "Perfumery",
     "cost": "200",
@@ -14,13 +91,6 @@
     "hurryCostModifier": 20,
     "requiredTech": "Chemistry"
   },
-  {
-        "name": "Camel Drawn Wagons",
-        "hurryCostModifier": 25,
-        "happiness": 2,
-        "uniques": ["[+1 Happiness] for every [3] population [in this city]", "[+2] [Gold] for every [Trade Route] [in this city]","[+2] [Food] for every [Trade Route] [in this city]", "Consumes [1] [Camel]"],
-        "requiredTech": "Animal Husbandry"
-},
   {
     "name": "Gemcutter",
     "cost": "100",
@@ -121,7 +191,7 @@
       "Bitter Gourd"
     ],
     "resourceBonusStats": {
-      "food": 1
+      "food": 2
     },
     "hurryCostModifier": 20,
     "requiredTech": "Banking"
