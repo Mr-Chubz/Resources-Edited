@@ -93,7 +93,7 @@
 		"cost": 350,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Titanium",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking"],
 		"hurryCostModifier": 20
 	},
 	{
@@ -104,7 +104,7 @@
 		"cost": 350,
 		"requiredTech": "Nanotechnology",
 		"requiredResource": "Titanium",
-		"uniques": ["+1 Visibility Range","Ignores terrain cost"],
+		"uniques": ["[+1] Sight","Ignores terrain cost"],
 		"hurryCostModifier": 20
 	},
 	{
