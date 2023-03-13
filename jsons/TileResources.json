@@ -187,7 +187,7 @@
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Tundra] [Hill] tiles>",
 					"Doesn't generate naturally <in [Grassland] [Fresh Water] tiles>",
-					"Doesn't generate naturally <in [Grassland] [Hill] tiles>"
+					"Doesn't generate naturally <in [Grassland] [Hill] tiles>"]
 	},
 	{
 		"name": "Graphite",
