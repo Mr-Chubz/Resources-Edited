@@ -7,6 +7,13 @@
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 1,"gold": 1}
+	 	 "uniques": ["Generated with weight [25] <in [Tundra] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [25] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]"]
 	},
 	{
 		"name": "Turtle",
@@ -15,6 +22,13 @@
 		"gold": 2,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 1}
+		 "uniques": ["Generated with weight [15] <in [Tundra] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [35] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]"]
 	},
 	{
 		"name": "Coral",
@@ -23,6 +37,13 @@
 		"gold": 2,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"gold": 1}
+		 "uniques": ["Generated with weight [15] <in [Tundra] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [35] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]"]
 	},
 	{
 		"name": "Shrimp",
@@ -32,6 +53,13 @@
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 1}
+		 "uniques": ["Generated with weight [15] <in [Tundra] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [35] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]"]
 	},
 	{
 		"name": "Oyster",
@@ -40,6 +68,13 @@
 		"food": 2,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated with weight [35] <in [Tundra] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [20] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]"]
 	},
 	{
 		"name": "Lapis Lazuli",
@@ -49,15 +84,26 @@
 		"gold": 2,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1}
+		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
 	},
 	{
 		"name": "Sulfur",
 		"resourceType": "Bonus",
 		"revealedBy": "Mining",
-		"terrainsCanBeFoundOn": ["Hill","Grassland","Plains"],
+		"terrainsCanBeFoundOn": ["Hill","Grassland","Plains","Tundra","Snow"],
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
+			"uniques": ["Generated on every [46] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>","Generated on every [46] tiles <in [Hill] [Grassland] tiles> <in tiles without [Fresh Water]><in tiles without [Forest]> <in tiles without [Jungle]>",
+					"Generated on every [35] tiles <in [Featureless] [Tundra] tiles>","Generated on every [30] tiles <in [Hill] [Tundra] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]>",
+					"Generated on every [52] tiles <in [Featureless] [Desert] tiles>","Generated on every [46] tiles <in [Hill] [Desert] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]>"
+					"Generated on every [46] tiles <in [Featureless] [Plains] tiles> <in tiles without [Fresh Water]>","Generated on every [46] tiles <in [Hill] [Plains] tiles> <in tiles without [Fresh Water]><in tiles without [Forest]> <in tiles without [Jungle]>",]
 	},
 	{
 		"name": "Amber",
@@ -67,6 +113,13 @@
 		"gold": 2,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1}
+		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
 	},
 	{
 		"name": "Lead",
@@ -76,6 +129,13 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
+		"uniques": ["Generated with weight [25] <in [Desert] Regions>",
+					"Generated with weight [30] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
+					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>"]
 	},
 	{
 	  "name": "Mercury",
@@ -85,6 +145,13 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
+		"uniques": ["Generated with weight [25] <in [Desert] Regions>",
+					"Generated with weight [30] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
+					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>"]
 	},
   {
 		"name": "Jade",
@@ -94,6 +161,14 @@
 		"gold": 2,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1}
+	  "improvementStats": {"gold": 1}
+		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
 	},
 	{
 		"name": "Tin",
@@ -103,6 +178,16 @@
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1, "production": 1}
+		"uniques": ["Generated with weight [25] <in [Tundra] Regions>",
+				"Generated with weight [30] <in [Hill] Regions>",
+					"Generated with weight [20] <in [Grassland] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
+					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>",
+					"Doesn't generate naturally <in [Tundra] [Hill] tiles>",
+					"Doesn't generate naturally <in [Grassland] [Fresh Water] tiles>",
+					"Doesn't generate naturally <in [Grassland] [Hill] tiles>"
 	},
 	{
 		"name": "Graphite",
@@ -113,6 +198,13 @@
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1, "production": 1}
+		"uniques": ["Generated with weight [25] <in [Desert] Regions>",
+					"Generated with weight [30] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
+					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>"]
 	},
 	{
 		"name": "Platinum",
@@ -123,6 +215,13 @@
 		"production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1, "production": 1}
+		"uniques": ["Generated with weight [25] <in [Desert] Regions>",
+					"Generated with weight [30] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
+					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>"]
 	},
 	{
 		"name": "Titanium",
@@ -146,6 +245,7 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
+		"uniques": ["Generated on every [102] tiles <in [Hill] tiles>"]
 	},
 	{
 		"name": "Diamond",
@@ -155,6 +255,13 @@
 		"gold": 2,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1}
+		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
 	},
 	{
 		"name": "Mango",
@@ -164,6 +271,8 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [14] tiles <in [Jungle] tiles>",
+				"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
 	},
 	{
 		"name": "Pineapple",
@@ -173,6 +282,8 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1,"food": 1}
+		"uniques": ["Generated with weight [60] <in [Jungle] Regions>"],
+					
 	},
 	{
 		"name": "Apple",
@@ -182,6 +293,8 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [14] tiles <in [Forest] tiles>",
+				"Generated on every [16] tiles <in [Forest] tiles> <in [Hill] Regions>"]
 	},
 	{
 		"name": "Olive",
@@ -191,6 +304,14 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1,"food": 1}
+		"uniques": ["Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Forest] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",
+					"Doesn't generate naturally <in [Forest] [Hill] tiles>",
+					"Doesn't generate naturally <in [Tundra] [Forest] tiles>"]
 	},
 	{
 		"name": "Strawberry",
@@ -200,6 +321,8 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1,"food": 1}
+		"uniques": ["Generated with weight [30] <in [Forest] Regions>"
+				"Generated with weight [20] <in [Hill] Regions>"],
 	},
 	{
 		"name": "Blueberry",
@@ -209,6 +332,9 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1,"food": 1}
+		"uniques": ["Generated with weight [25] <in [Forest] Regions>"
+				"Generated with weight [15] <in [Hill] Regions>"
+				"Generated with weight [10] <in [Plains] Regions>],
 	},
 	{
 		"name": "Dates",
@@ -218,6 +344,14 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1}
+		"uniques": ["Generated with weight [5] <in [Jungle] Regions>",
+					"Generated with weight [5] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [10] <in [Desert] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",
+					"Doesn't generate naturally <in [Tundra] [Forest] tiles>"]
 	},
 	{
 		"name": "Melon",
@@ -226,6 +360,10 @@
 		"food": 2,
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [40] tiles <in [Jungle] tiles>",
+				"Generated on every [46] tiles <in [Jungle] tiles> <in [Hill] Regions>",
+				"Generated on every [46] tiles <in [Featureless] [Grassland] tiles>",
+				"Generated on every [46] tiles <in [Featureless] [Plains] tiles>",]
 	},
 	{
 		"name": "Coconut",
@@ -235,6 +373,8 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"gold":1,"food": 1}
+		"uniques": ["Generated with weight [60] <in [Jungle] Regions>"],
+
 	},
   {
 		"name": "Hemp",
@@ -245,6 +385,10 @@
 		"production": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "production": 1}
+	  	"uniques": ["Generated on every [64] tiles <in [Featureless] [Plains] tiles>",
+					"Generated on every [68] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>",
+	 			 "Generated on every [64] tiles <in [Featureless] [Grassland] tiles>",
+					"Generated on every [68] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>",]
 	},
 	{
 		"name": "Rice",
@@ -253,6 +397,10 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [32] tiles <in [Featureless] [Plains] tiles>",
+					"Generated on every [34] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>",
+	 			 "Generated on every [32] tiles <in [Featureless] [Grassland] tiles>",
+					"Generated on every [34] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>",]
 	},
 	{
 		"name": "Rubber",
@@ -262,6 +410,8 @@
 		"production": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1,"production": 1}
+		"uniques": ["Generated with weight [25] <in [Forest] Regions>"
+				"Generated with weight [25] <in [Jungle] Regions>"],
 	},
 	{
 		"name": "Perfume",
@@ -270,6 +420,12 @@
 		"gold": 2,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1}
+		"uniques": ["Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Forest] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Tobacco",
@@ -278,6 +434,12 @@
 		"gold": 2,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1}
+		"uniques": ["Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Forest] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Papyrus",
@@ -286,6 +448,11 @@
 		"production": 2,
 		"improvement": "Farm",
 		"improvementStats": {"production": 1}
+		"uniques": ["Generated on every [74] tiles <in [Featureless] [Plains] tiles>",
+	 			"Generated on every [74] tiles <in [Featureless] [Grassland] tiles>",
+				"Generated on every [68] tiles <in [Forest] tiles>",
+				"Generated on every [68] tiles <in [Jungle] tiles>",
+				"Generated on every [27] tiles <in [Food plains] tiles>",]
 	},
 	{
 		"name": "Glass",
@@ -294,6 +461,8 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
+		"uniques": ["Generated on every [32] tiles <in [Featureless] [Desert] tiles>",
+					"Generated on every [34] tiles <in [Desert] tiles> <in [Hill] Regions>",
 	},
   {
 		"name": "Flax",
@@ -303,6 +472,10 @@
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "production": 1}
+		"uniques": ["Generated on every [64] tiles <in [Featureless] [Plains] tiles>",
+					"Generated on every [68] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>",
+	 			 "Generated on every [64] tiles <in [Featureless] [Grassland] tiles>",
+					"Generated on every [68] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>",]
 	},
 	{
 		"name": "Carrot",
@@ -311,23 +484,29 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [64] tiles <in [Featureless] [Plains] tiles>",
+					"Generated on every [68] tiles <in [Plains] tiles> <in [Hill] Regions>",
+	 			 "Generated on every [64] tiles <in [Featureless] [Grassland] tiles>",
+					"Generated on every [68] tiles <in[Grassland] tiles> <in [Hill] Regions>",]
 	},
 	{
 		"name": "Potato",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Hill"],
+		"terrainsCanBeFoundOn": ["Hill","Plains","Grassland","Tundra"],
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [46] tiles  <in [Hill] Regions>",]
 	},
 	{
 		"name": "Tomato",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Hill"],
+		"terrainsCanBeFoundOn": ["Hill","Plains","Grassland","Tundra"],
 		"gold": 1,
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "food": 1}
+		"uniques": ["Generated on every [46] tiles  <in [Hill] Regions>",]
 	},
 	{
 		"name": "Pumpkin",
@@ -337,6 +516,8 @@
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "food": 1}
+		"uniques": ["Generated on every [64] tiles <in [Featureless] [Plains] tiles>",
+	 			 "Generated on every [64] tiles <in [Featureless] [Grassland] tiles>",]
 	},
 	{
 		"name": "Moringa",
@@ -346,6 +527,8 @@
 		"gold": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"gold": 1, "food": 1}
+				"uniques": ["Generated with weight [60] <in [Jungle] Regions>"],
+
 	},
 	{
 		"name": "Corn",
@@ -355,6 +538,11 @@
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "food": 1}
+		"uniques": ["Generated with weight [15] <in [Grassland] Regions>",
+					"Generated with weight [20] <in [Flood plains] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [10] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Bell Pepper",
@@ -364,6 +552,12 @@
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "food": 1}
+		"uniques": ["Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [20] <in [Flood plains] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Sweet Potato",
@@ -373,6 +567,9 @@
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "food": 1}
+		"uniques": ["Generated with weight [20] <in [Flood plains] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Kelp",
@@ -382,6 +579,14 @@
 		"food": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 1,"gold": 1}
+		"uniques": ["Generated with weight [40] <in [Tundra] Regions>",
+					"Generated with weight [5] <in [Jungle] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [15] <in [Grassland] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]"]
 	},
 	{
 		"name": "Gypsum",
@@ -391,6 +596,13 @@
 		"gold": 2,
 		"improvement": "Mine",
 		"improvementStats": {"gold": 1}
+		"uniques": ["Generated with weight [5] <in [Tundra] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
 	},
 	{
 		"name": "Goat",
@@ -400,7 +612,8 @@
 		"food": 2,
 		"improvement": "Pasture",
 		"improvementStats": {"food": 1}
-	},
+		"uniques": ["Generated on every [26] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
+					"Generated on every [20] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hill] Regions>"]	},
 	{
 		"name": "Camel",
 		"resourceType": "Strategic",
@@ -426,6 +639,14 @@
 		"gold": 1,
 		"improvement": "Fishing Boats",
 		"improvementStats": {"food": 1, "gold": 1}
+		"uniques": ["Generated with weight [30] <in [Tundra] Regions>",
+					"Generated with weight [5] <in [Jungle] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [20] <in [Grassland] Regions>",
+					"Generated with weight [20] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]"]
 	},
 	{
 		"name": "Chili",
@@ -435,6 +656,10 @@
 		"gold": 1,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1, "gold": 1}
+		"uniques": ["Generated with weight [15] <in [Jungle] Regions>",
+					"Generated with weight [20] <in [Flood plains] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Common Pepper",
@@ -444,6 +669,9 @@
 		"gold": 1,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1, "gold": 1}
+		"uniques": ["Generated with weight [30] <in [Jungle] Regions>",
+					"Generated with weight [20] <in [Hill] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Onion",
@@ -452,6 +680,10 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated with weight [15] <in [Grasslands] Regions>",
+					"Generated with weight [20] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Garlic",
@@ -460,6 +692,10 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated with weight [15] <in [Grasslands] Regions>",
+					"Generated with weight [20] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Nut",
@@ -469,14 +705,22 @@
 		"gold": 1,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1, "gold": 1}
+		"uniques": ["Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Chicken",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Hill","Plains","Grassland","Forest","Jungle"],
+		"terrainsCanBeFoundOn": ["Hill","Plains","Grassland","Forest","Jungle","Desert"],
 		"food": 2,
 		"improvement": "Chicken Coop",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [26] tiles <in [Hill] tiles>",
+					"Generated on every [20] tiles <in [Hill] tiles> <in tiles without [Fresh Water]> <in [Hill] Regions>","Generated on every [36] tiles <in [Featureless] [Grassland] tiles>",
+					"Generated on every [44] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>","Generated on every [44] tiles <in [Desert] tiles> <in [Fresh Water] tiles>"]
 	},
 	{
 		"name": "Honey",
@@ -486,6 +730,10 @@
 		"gold": 1,
 		"improvement": "Apiary",
 		"improvementStats": {"gold": 1}
+		"uniques": ["Generated with weight [15] <in [Grassland] Regions>",
+					"Generated with weight [15] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Watermelon",
@@ -495,6 +743,11 @@
 		"gold": 2,
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1, "gold": 1}
+		"uniques": ["Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Generated near City States with weight [15]",]
 	},
 	{
 		"name": "Purple Yam",
@@ -504,6 +757,7 @@
 		"gold": 1,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [26] tiles <in [Hill] tiles>", "Generated on every [26] tiles <in [Jungle] tiles>"],
 	},
 	{
 		"name": "Taro",
@@ -512,6 +766,8 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [26] tiles <in [Hill] tiles>", "Generated on every [26] tiles <in [Jungle] tiles>","Generated on every [26] tiles <in [Marsh] tiles>"],
+
 	},
 	{
 		"name": "Bitter Gourd",
@@ -520,5 +776,7 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [26] tiles <in [Jungle] tiles>","Generated on every [26] tiles <in [Marsh] tiles>"],
+
 	}
   ]
