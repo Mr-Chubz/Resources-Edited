@@ -100,7 +100,11 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
-		
+		"uniques": ["Generated on every [92] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>","Generated on every [92] tiles <in [Hill] [Grassland] tiles> <in tiles without [Fresh Water]><in tiles without [Forest]> <in tiles without [Jungle]>",
+					"Generated on every [70] tiles <in [Featureless] [Tundra] tiles>","Generated on every [60] tiles <in [Hill] [Tundra] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]>",
+					"Generated on every [104] tiles <in [Featureless] [Desert] tiles>","Generated on every [92] tiles <in [Hill] [Desert] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]>"
+					"Generated on every [92] tiles <in [Featureless] [Plains] tiles> <in tiles without [Fresh Water]>","Generated on every [92] tiles <in [Hill] [Plains] tiles> <in tiles without [Fresh Water]><in tiles without [Forest]> <in tiles without [Jungle]>",]
+
 	},
 	{
 		"name": "Amber",
