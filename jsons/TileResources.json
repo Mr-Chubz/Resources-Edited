@@ -100,10 +100,7 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
-			"uniques": ["Generated on every [46] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>","Generated on every [46] tiles <in [Hill] [Grassland] tiles> <in tiles without [Fresh Water]><in tiles without [Forest]> <in tiles without [Jungle]>",
-					"Generated on every [35] tiles <in [Featureless] [Tundra] tiles>","Generated on every [30] tiles <in [Hill] [Tundra] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]>",
-					"Generated on every [52] tiles <in [Featureless] [Desert] tiles>","Generated on every [46] tiles <in [Hill] [Desert] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]>"
-					"Generated on every [46] tiles <in [Featureless] [Plains] tiles> <in tiles without [Fresh Water]>","Generated on every [46] tiles <in [Hill] [Plains] tiles> <in tiles without [Fresh Water]><in tiles without [Forest]> <in tiles without [Jungle]>",]
+			
 	},
 	{
 		"name": "Amber",
@@ -245,7 +242,6 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
-		"uniques": ["Generated on every [102] tiles <in [Hill] tiles>"]
 	},
 	{
 		"name": "Diamond",
@@ -271,8 +267,7 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1}
-		"uniques": ["Generated on every [14] tiles <in [Jungle] tiles>",
-				"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
+		
 	},
 	{
 		"name": "Pineapple",
@@ -293,8 +288,7 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1}
-		"uniques": ["Generated on every [14] tiles <in [Forest] tiles>",
-				"Generated on every [16] tiles <in [Forest] tiles> <in [Hill] Regions>"]
+		
 	},
 	{
 		"name": "Olive",
@@ -360,10 +354,7 @@
 		"food": 2,
 		"improvement": "Plantation",
 		"improvementStats": {"food": 1}
-		"uniques": ["Generated on every [40] tiles <in [Jungle] tiles>",
-				"Generated on every [46] tiles <in [Jungle] tiles> <in [Hill] Regions>",
-				"Generated on every [46] tiles <in [Featureless] [Grassland] tiles>",
-				"Generated on every [46] tiles <in [Featureless] [Plains] tiles>",]
+	
 	},
 	{
 		"name": "Coconut",
@@ -385,10 +376,7 @@
 		"production": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "production": 1}
-	  	"uniques": ["Generated on every [64] tiles <in [Featureless] [Plains] tiles>",
-					"Generated on every [68] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>",
-	 			 "Generated on every [64] tiles <in [Featureless] [Grassland] tiles>",
-					"Generated on every [68] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>",]
+	  
 	},
 	{
 		"name": "Rice",
@@ -397,10 +385,7 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
-		"uniques": ["Generated on every [32] tiles <in [Featureless] [Plains] tiles>",
-					"Generated on every [34] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>",
-	 			 "Generated on every [32] tiles <in [Featureless] [Grassland] tiles>",
-					"Generated on every [34] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>",]
+		
 	},
 	{
 		"name": "Rubber",
@@ -412,6 +397,7 @@
 		"improvementStats": {"gold": 1,"production": 1}
 		"uniques": ["Generated with weight [25] <in [Forest] Regions>"
 				"Generated with weight [25] <in [Jungle] Regions>"],
+
 	},
 	{
 		"name": "Perfume",
@@ -448,11 +434,7 @@
 		"production": 2,
 		"improvement": "Farm",
 		"improvementStats": {"production": 1}
-		"uniques": ["Generated on every [74] tiles <in [Featureless] [Plains] tiles>",
-	 			"Generated on every [74] tiles <in [Featureless] [Grassland] tiles>",
-				"Generated on every [68] tiles <in [Forest] tiles>",
-				"Generated on every [68] tiles <in [Jungle] tiles>",
-				"Generated on every [27] tiles <in [Flood plains] tiles>",]
+		
 	},
 	{
 		"name": "Glass",
@@ -461,8 +443,7 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
-		"uniques": ["Generated on every [32] tiles <in [Featureless] [Desert] tiles>",
-					"Generated on every [34] tiles <in [Desert] tiles> <in [Hill] Regions>",]
+		
 	},
   {
 		"name": "Flax",
@@ -472,10 +453,7 @@
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "production": 1}
-		"uniques": ["Generated on every [64] tiles <in [Featureless] [Plains] tiles>",
-					"Generated on every [68] tiles <in [Featureless] [Plains] tiles> <in [Hill] Regions>",
-	 			 "Generated on every [64] tiles <in [Featureless] [Grassland] tiles>",
-					"Generated on every [68] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>",]
+		
 	},
 	{
 		"name": "Carrot",
@@ -484,10 +462,7 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
-		"uniques": ["Generated on every [64] tiles <in [Featureless] [Plains] tiles>",
-					"Generated on every [68] tiles <in [Plains] tiles> <in [Hill] Regions>",
-	 			 "Generated on every [64] tiles <in [Featureless] [Grassland] tiles>",
-					"Generated on every [68] tiles <in[Grassland] tiles> <in [Hill] Regions>",]
+		
 	},
 	{
 		"name": "Potato",
@@ -496,7 +471,6 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
-		"uniques": ["Generated on every [46] tiles  <in [Hill] Regions>",]
 	},
 	{
 		"name": "Tomato",
@@ -506,7 +480,6 @@
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "food": 1}
-		"uniques": ["Generated on every [46] tiles  <in [Hill] Regions>",]
 	},
 	{
 		"name": "Pumpkin",
@@ -516,8 +489,7 @@
 		"food": 1,
 		"improvement": "Farm",
 		"improvementStats": {"gold": 1, "food": 1}
-		"uniques": ["Generated on every [64] tiles <in [Featureless] [Plains] tiles>",
-	 			 "Generated on every [64] tiles <in [Featureless] [Grassland] tiles>",]
+		
 	},
 	{
 		"name": "Moringa",
@@ -752,7 +724,6 @@
 		"gold": 1,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
-		"uniques": ["Generated on every [48] tiles <in [Hill] tiles>", "Generated on every [26] tiles <in [Jungle] tiles>"],
 	},
 	{
 		"name": "Taro",
@@ -761,7 +732,6 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
-		"uniques": ["Generated on every [48] tiles <in [Hill] tiles>", "Generated on every [26] tiles <in [Jungle] tiles>","Generated on every [26] tiles <in [Marsh] tiles>"],
 
 	},
 	{
@@ -771,7 +741,6 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
-		"uniques": ["Generated on every [26] tiles <in [Jungle] tiles>","Generated on every [26] tiles <in [Marsh] tiles>"],
 
 	}
   ]
