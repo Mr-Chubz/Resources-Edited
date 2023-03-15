@@ -761,6 +761,7 @@
 		"gold": 1,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [96] tiles <in [Hill] tiles>", "Generated on every [52] tiles <in [Jungle] tiles>"],
 
 	},
 	{
@@ -770,6 +771,7 @@
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 1}
+		"uniques": ["Generated on every [96] tiles <in [Hill] tiles>", "Generated on every [52] tiles <in [Jungle] tiles>","Generated on every [52] tiles <in [Marsh] tiles>"],
 
 	},
 	{
